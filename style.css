@@ -1,0 +1,76 @@
+		
+		.header{
+			text-align:center;
+			font-family:signpainter;
+			background-color:#DCC64D;
+			box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+		}
+
+
+		img{
+			margin-top:50px;
+			margin-bottom:50px;
+			width:300px;
+			height: 175px;
+			overflow:hidden;
+			
+		}
+
+		.img2{
+			text-align:center;
+			
+			font-family: heiti sc;
+			font-size:30px;
+			
+		}
+
+		a{
+			text-decoration: none;
+			color:white;
+			padding-bottom:50px;
+			padding-left:25px;
+
+			
+		}
+
+		a:hover{
+			color:lightblue;
+		}
+
+
+		body{
+			background-image:url(https://muse.world/wp-content/uploads/2022/07/Elden-Ring-05.jpg;);
+			background-size: 100%;
+		}
+
+		table{
+			border:10px solid lightgray;
+			border-radius:70px;
+		}
+
+		p{
+			font-family: heiti sc;
+			margin:50px;
+
+		}
+
+		ul{
+			font-family: heiti sc;
+			margin:50px;
+			font-size:20px;
+		}
+
+		.button:hover{
+			background-color:lightblue;
+		}
+
+		footer{
+			text-align:center;
+			font-family:heiti sc;
+			color:white;
+			position:fixed;
+			bottom:0;
+			margin-left:540px;
+
+		}
+
